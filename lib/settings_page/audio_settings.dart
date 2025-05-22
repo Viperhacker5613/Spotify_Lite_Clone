@@ -241,7 +241,7 @@ class _AudioSettingsState extends State<AudioSettings> {
                   ),
                   subtitle: Text("Set the same volume level for all tracks."),
                   trailing: Switch(
-                    value: isToggled,
+                    value: isToggled3,
                     activeColor: Colors.green,
                     inactiveThumbColor: Colors.grey,
 
